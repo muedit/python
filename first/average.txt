@@ -1,0 +1,8 @@
+total=0
+index=0
+subject=(78,95,68,62)
+while index<len(subject)
+	total+=subject[index]
+	index+=1
+average=total/len(subject)
+avarage
